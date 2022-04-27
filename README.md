@@ -1,8 +1,8 @@
 <style>
-#sub_section {
-    font-weight:bold;
-    font-size: 18px;
-}
+    #sub_section {
+        font-weight:bold;
+        font-size: 18px;
+    }
 </style>
 
 # <p align="center"> CantoneseChatbot_v2 </p>
