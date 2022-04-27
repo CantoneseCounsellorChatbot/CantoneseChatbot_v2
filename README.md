@@ -1,13 +1,8 @@
-<style>
-    #sub_section {
-        font-weight:bold;
-        font-size: 18px;
-    }
-</style>
-
 # <p align="center"> CantoneseChatbot_v2 </p>
 
-<div align="center" id=sub_section>
+<div align="center" 
+style="font-weight:bold;
+font-size: 18px;">
 City University of Hong Kong<br>
 <a href="https://drive.google.com/drive/folders/1fdaQm211O7kEdkWtDgXQ4-7XekPBswdI?usp=sharing"> Data <br></a>
 <a href="https://drive.google.com/drive/folders/1hXSx1iD_v5fDYlUBWfw2HnltsHkD1pe_?usp=sharing"> Fine-Tuned Model <br></a>
