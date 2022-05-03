@@ -46,5 +46,5 @@ When the download is finished, unzipping the file and you will see the following
 </br>
 
 4. The chatbot will depend on whether there is a user-customized keywords list to select the keywords file for generating the general-reply. In the above demonstration, I added a case to the “NameExraction” keyword list and uploaded this customized version to the application. Thus, the customized version of “NameExtraction” keyword list will be used instead of the original version.
-</br><img src="https://drive.google.com/uc?export=view&id=1WJAhd41UY8_V_kAsW2V04uSr1Tch-YZI" width="500"/>
+</br><img src="https://drive.google.com/uc?export=view&id=1WJAhd41UY8_V_kAsW2V04uSr1Tch-YZI" width="800"/>
 
