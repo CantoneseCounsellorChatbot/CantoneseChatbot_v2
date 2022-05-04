@@ -34,8 +34,8 @@ When the download is finished, unzipping the file and you will see the following
 3. According to the purpose, you can open the corresponding file and insert the case to it.
     - E.g., You want to insert a new keyword-case for name-extraction (e.g., Q: "Hello I am xxx", A: "你好呀，xxx"). You can insert it as a new row into the <b>keyword_list_custom(NameExtract).csv</b>
 </br><img src="./images/keywordsCustom/edit.png" width="400"/>
-   - When the editing is finished, please "drag and drop" the updated keyword file to the "Files" section at the left side of Colab.
-</br><img src="./images/keywordsCustom/updateKeywordDemo.gif" width="600"/>
+   - When the editing is finished, please "drag and drop" the modified file to the "Files" section at the left side of Colab.
+</br><img src="./images/keywordsCustom/updateKeywordDemo.gif" height="600"/>
 </br>
 
 1. The chatbot will depend on whether there is a user-customized keywords list to select the keywords file for generating the general-reply. In the above demonstration, I added a case to the “NameExraction” keyword list and uploaded this customized version to the application. Thus, the customized version of “NameExtraction” keyword list will be used instead of the original version.
@@ -44,3 +44,10 @@ When the download is finished, unzipping the file and you will see the following
 #### Candidates Pool
 1. Go to the "Candidates Pool Customization" Section
 </br><img src="images/CandidatesCustom/init.png" width="500"/>
+
+2. Click "Download Candidates Pool" button to get the "candidates.csv" file.
+   * Same as the Keywords customization, you can add a new row to the file as a new candidate for the chatbot.
+3. When the editing is finished, please "drag and drop" the modified file to the "Files" section at the left side of Colab.
+   * Please refer to the same process at Keywords customization
+4. When the upload is finished, please click the "Update Candidates" button to update the candidates pool.
+
