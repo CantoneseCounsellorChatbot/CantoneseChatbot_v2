@@ -8,9 +8,13 @@
 </b>
 </div>
 
-## How to run
+## How to use
+1.   Click "Demo On Google Colab" in above.
+2. When you are directed to Google Colab, please click "Runtime" > "Run all" in the menu bar.
+   * The configuration steps may take a few minutes to run
+3.   When the configuration is completed, scroll to the bottom of the webpage. Enjoy the chatting :)
 
-### Customization
+## Customization
 
 #### Prerequisite
 * Any text editor that can be used to edit the CSV file (e.g., Excel, Visual Studio Code, Notebook and etc) 
