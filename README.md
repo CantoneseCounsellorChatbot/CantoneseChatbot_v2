@@ -8,6 +8,8 @@
 </b>
 </div>
 
+<div align="center"></br><img src="images/example-1.png" width="1250"/></div>
+
 ## How to use
 1.   Click "Demo On Google Colab" in above.
 2. When you are directed to Google Colab, please click "Runtime" > "Run all" in the menu bar.
