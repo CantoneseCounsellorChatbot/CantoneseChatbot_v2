@@ -8,7 +8,7 @@
 </b>
 </div>
 
-<div align="center"></br><img src="images/example-1.png" width="1250"/></div>
+<div align="center"></br><img src="images/example-1.png" width="900"/></div>
 
 ## How to use
 1.   Click "Demo On Google Colab" in above.
