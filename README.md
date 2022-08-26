@@ -1,17 +1,20 @@
 # <p align="center"> CantoneseChatbot_v2 </p>
 
+<b>
 <div align="center">
-<b>City University of Hong Kong<br>
-## Dataset
-<a href="https://drive.google.com/file/d/1-0zxvtzvwp48dGzRISR0KCGXSrRDftF1/view?usp=sharing"> Social <br></a>
-<a href="https://drive.google.com/file/d/1STpqOOza1wmS-rOww5nwSHWQ2RLb6fTy/view?usp=sharing"> Historical Dialogs <br></a>
-<a href="https://drive.google.com/file/d/1gpuj981sSxqwdZOrNeW-khCcFUaVmxzS/view?usp=sharing"> Students <br></a>
-<a href="https://drive.google.com/file/d/1oH9G13-j0TNGeY32cTBV3iIrQukm-AHm/view?usp=sharing"> Efaqa <br></a>
+City University of Hong Kong
+<br>
+</div>  
+Dataset <br>
+|-- <a href="https://drive.google.com/file/d/1-0zxvtzvwp48dGzRISR0KCGXSrRDftF1/view?usp=sharing"> Social <br></a>
+|-- <a href="https://drive.google.com/file/d/1STpqOOza1wmS-rOww5nwSHWQ2RLb6fTy/view?usp=sharing"> Historical Dialogs <br></a>
+|-- <a href="https://drive.google.com/file/d/1gpuj981sSxqwdZOrNeW-khCcFUaVmxzS/view?usp=sharing"> Students <br></a>
+|-- <a href="https://drive.google.com/file/d/1oH9G13-j0TNGeY32cTBV3iIrQukm-AHm/view?usp=sharing"> Efaqa <br></a>
 
-<a href="https://drive.google.com/drive/folders/1hXSx1iD_v5fDYlUBWfw2HnltsHkD1pe_?usp=sharing"> Fine-Tuned Model <br></a>
+<a href=""> Fine-Tuned Model <br></a>
 <a href="https://colab.research.google.com/drive/10QPce8Ten-m8HVFLYDcaDmiieyIa9Stx"> Demo On Google Colab <br></a>
 </b>
-</div>
+
 
 <div align="center"></br><img src="images/example-1.png" width="900"/></div>
 
