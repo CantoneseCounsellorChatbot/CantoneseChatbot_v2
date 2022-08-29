@@ -31,40 +31,59 @@ Dataset <br>
 
 #### Prerequisite
 * Any text editor that can be used to edit the CSV file (e.g., Excel, Visual Studio Code, Notebook and etc) 
+<h1 align="center">
+<b>Customization</b>
+</h1>
 
-#### Keywords Files
+<h2 align="center">
+<b>Opener/ Username Identification/ Initial Greeting</b>
+</h2>
 
-1. Go to the "Keyword Customization" Section
-</br><img src="images/keywordsCustom/init.png" width="250"/>
+1. Go to "Opener" section
+2. Insert/ Delete the content in the Input Field.
 
-2. Click the button on the first cell in the section. It will automatically download the template of keywords list files. 
-When the download is finished, unzipping the file and you will see the following folder structure.
-```
-  |--keyword_list_custom(General).csv
-  |--keyword_list_custom(NameExtract).csv 
-```
-* keyword_list_custom(General).csv 
-  * Used for all keyword-based reply
-* keyword_list_custom(NameExtract).csv 
-  * Used for only name-extraction reply
+> <h4><b>INSERT EXAMPLE</b></h4>        
 
-3. According to the purpose, you can open the corresponding file and insert the case to it.
-    - E.g., You want to insert a new keyword-case for name-extraction (e.g., Q: "Hello I am xxx", A: "你好呀，xxx"). You can insert it as a new row into the <b>keyword_list_custom(NameExtract).csv</b>
-</br><img src="./images/keywordsCustom/edit.png" width="400"/>
-   - When the editing is finished, please "drag and drop" the modified file to the "Files" section at the left side of Colab.
-</br><img src="./images/keywordsCustom/updateKeywordDemo.gif" height="600"/>
+>> **ORIGINAL👇**
+
+>>>        初次見面，點稱呼呀？ | Hello，點稱呼呀？
+
+>> **INSERT "Halo!!!"👇**
+
+>>>        初次見面，點稱呼呀？ | Hello，點稱呼呀？| Halo!!!
+
 </br>
 
-1. The chatbot will depend on whether there is a user-customized keywords list to select the keywords file for generating the general-reply. In the above demonstration, I added a case to the “NameExraction” keyword list and uploaded this customized version to the application. Thus, the customized version of “NameExtraction” keyword list will be used instead of the original version.
-</br><img src="./images/keywordsCustom/result.png" width="800"/>
+> <h4><b>DELETE EXAMPLE</b></h4>
 
-#### Candidates Pool
+>> **ORIGINAL👇**
+
+>>>        初次見面，點稱呼呀？ | Hello，點稱呼呀？| 你好呀，你叫咩名？
+
+>> **DELETE "你好呀，你叫咩名？"👇**
+
+>>>        初次見面，點稱呼呀？ | Hello，點稱呼呀？
+
+3. Click "Update Opener"/ "Update Username Identification"/ "Update Initial Greeting"
+4. If you wanna reset the candidates, click "Reset Opener"/ "Reset Username Identification"/ "Reset Initial Greeting"
+
+<h2 align="center">
+<b>Keyword</b>
+</h2>
+
+1. Go to "Keyword Customization" section
+2. Click "Download Keywords' List"
+3. Unzipping the file and you can customize the keyword file that you want to modifiy.
+4. When you finished the customization, save and upload it by dragging the file to the "Files" section at the left side of Colab. 
+
+
+<h2 align="center">
+<b>Candidates Pool</b>
+</h2>
+
 1. Go to the "Candidates Pool Customization" Section
-</br><img src="images/CandidatesCustom/init.png" width="500"/>
-
 2. Click "Download Candidates Pool" button to get the "candidates.csv" file.
-   * Same as the Keywords customization, you can add a new row to the file as a new candidate for the chatbot.
-3. When the editing is finished, please "drag and drop" the modified file to the "Files" section at the left side of Colab.
-   * Please refer to the same process at Keywords customization
+3. Please refer to the same process at Keywords customization
 4. When the upload is finished, please click the "Update Candidates" button to update the candidates pool.
+
 
