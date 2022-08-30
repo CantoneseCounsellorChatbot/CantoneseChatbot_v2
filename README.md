@@ -15,7 +15,7 @@ Dataset <br>
 
 
 <a href=""> Fine-Tuned Model <br></a>
-<a href="https://colab.research.google.com/drive/10QPce8Ten-m8HVFLYDcaDmiieyIa9Stx"> Demo On Google Colab <br></a>
+<a href="https://drive.google.com/file/d/1y_l6ZMyopxIaFeX9K3UBeGwTT0cxrXs6/view?usp=sharing"> Demo On Google Colab <br></a>
 </b>
 
 
